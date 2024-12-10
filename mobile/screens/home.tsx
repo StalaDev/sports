@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Button, Text, View, ScrollView } from "react-native";
-import ResponseModal from "../components/modal/responseModal";
+// import ResponseModal from "../components/modal/responseModal";
 import { AppScreenProps, AppScreens } from "../navigation/screens";
 import StatisticCard from "../components/statisticCard";
 import SquareCard, { SquareCardProps } from "../components/squareCard";
